@@ -23,9 +23,9 @@
             },
         });
 
-        tl.to(carouselTop, { x: -600, ease: "none" }, 0)
-            .to(text, { x: -100, ease: "none" }, 0)
-            .to(carouselBottom, { x: 600, ease: "none" }, 0);
+        tl.to(carouselTop, { x: -900, ease: "none" }, 0)
+            .to(text, { x: -200, ease: "none" }, 0)
+            .to(carouselBottom, { x: 900, ease: "none" }, 0);
 
         return () => {
             // Clean up ScrollTrigger on component unmount
@@ -46,11 +46,14 @@
             alt="smart india hackathon"
             class="h-72 rounded-sm"
         />
-        <img src="/satwa.webp" alt="satwa" class="h-72 rounded-sm" />
-        <img src="/nasa.webp" alt="nasa space apps" class="h-72 rounded-sm" />
         <img
-            src="/sih.webp"
-            alt="smart india hackathon"
+            src="/twilight2nd.webp"
+            alt="Twilight Hackathon 2nd place"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight4th.webp"
+            alt="Twilight Hackathon 4th place"
             class="h-72 rounded-sm"
         />
         <img src="/satwa.webp" alt="satwa" class="h-72 rounded-sm" />
@@ -58,6 +61,33 @@
         <img
             src="/sih.webp"
             alt="smart india hackathon"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight2nd.webp"
+            alt="Twilight Hackathon 2nd place"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight4th.webp"
+            alt="Twilight Hackathon 4th place"
+            class="h-72 rounded-sm"
+        />
+        <img src="/satwa.webp" alt="satwa" class="h-72 rounded-sm" />
+        <img src="/nasa.webp" alt="nasa space apps" class="h-72 rounded-sm" />
+        <img
+            src="/sih.webp"
+            alt="smart india hackathon"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight2nd.webp"
+            alt="Twilight Hackathon 2nd place"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight4th.webp"
+            alt="Twilight Hackathon 4th place"
             class="h-72 rounded-sm"
         />
     </div>
@@ -86,11 +116,14 @@
             alt="smart india hackathon"
             class="h-72 rounded-sm"
         />
-        <img src="/satwa.webp" alt="satwa" class="h-72 rounded-sm" />
-        <img src="/nasa.webp" alt="nasa space apps" class="h-72 rounded-sm" />
         <img
-            src="/sih.webp"
-            alt="smart india hackathon"
+            src="/twilight2nd.webp"
+            alt="Twilight Hackathon 2nd place"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight4th.webp"
+            alt="Twilight Hackathon 4th place"
             class="h-72 rounded-sm"
         />
         <img src="/satwa.webp" alt="satwa" class="h-72 rounded-sm" />
@@ -98,6 +131,33 @@
         <img
             src="/sih.webp"
             alt="smart india hackathon"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight2nd.webp"
+            alt="Twilight Hackathon 2nd place"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight4th.webp"
+            alt="Twilight Hackathon 4th place"
+            class="h-72 rounded-sm"
+        />
+        <img src="/satwa.webp" alt="satwa" class="h-72 rounded-sm" />
+        <img src="/nasa.webp" alt="nasa space apps" class="h-72 rounded-sm" />
+        <img
+            src="/sih.webp"
+            alt="smart india hackathon"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight2nd.webp"
+            alt="Twilight Hackathon 2nd place"
+            class="h-72 rounded-sm"
+        />
+        <img
+            src="/twilight4th.webp"
+            alt="Twilight Hackathon 4th place"
             class="h-72 rounded-sm"
         />
     </div>
